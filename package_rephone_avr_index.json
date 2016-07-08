@@ -17,7 +17,7 @@
           "help": {
             "online": "http://www.seeedstudio.com/wiki/Main_Page"
           },
-          "url": "https://github.com/WayenWeng/RePhone_core_2G_AtmelSAMD21/blob/master/RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2?raw=true",
+          "url": "https://raw.githubusercontent.com/WayenWeng/RePhone_core_2G_Atmel32u4/master/RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
           "checksum": "SHA-256:2607b38437d872193ae29fcc420bd93f41baa36112f4c1528f79ce6a59b7d202",
           "size": "6660",
