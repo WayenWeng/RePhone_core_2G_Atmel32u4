@@ -23,7 +23,7 @@
           "size": "6660",
           "boards": [
             {
-              "name": "Seeeduino V3.0(Atmega328P)"
+              "name": "RePhone core 2G-Atmel32u4"
             }
           ],
           "toolsDependencies": [
