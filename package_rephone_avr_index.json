@@ -19,8 +19,8 @@
           },
           "url": "https://raw.githubusercontent.com/WayenWeng/RePhone_core_2G_Atmel32u4/master/RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
           "archiveFileName": "RePhone_core_2G_Atmel32u4_v1.0.0.tar.bz2",
-          "checksum": "SHA-256:2607b38437d872193ae29fcc420bd93f41baa36112f4c1528f79ce6a59b7d202",
-          "size": "6660",
+          "checksum": "SHA-256:a66f6aefdbc47cd75eae65e780f84c2debc86562d86b0e5464fb405ba0e6a8dc",
+          "size": "43924",
           "boards": [
             {
               "name": "RePhone core 2G-Atmel32u4"
