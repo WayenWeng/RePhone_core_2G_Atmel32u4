@@ -68,6 +68,36 @@
               "version": "6.0.1-arduino5"
             }
           ]
+        },
+        {
+          "name": "RePhone core 2G-Atmel32u4",
+          "architecture": "avr",
+          "version": "1.0.2",
+          "category": "ATmega",
+          "help": {
+            "online": "http://www.seeedstudio.com/wiki/Main_Page"
+          },
+          "url": "https://raw.githubusercontent.com/WayenWeng/RePhone_core_2G_Atmel32u4/master/RePhone_core_2G_Atmel32u4_v1.0.2.tar.bz2",
+          "archiveFileName": "RePhone_core_2G_Atmel32u4_v1.0.2.tar.bz2",
+          "checksum": "SHA-256:3247283aa4fb1cb8c2651b0137a6228b9a04f9e581756378e0d4074fe5f8c38e",
+          "size": "50672",
+          "boards": [
+            {
+              "name": "RePhone core 2G-Atmel32u4"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
         }
       ],
       "tools": [
